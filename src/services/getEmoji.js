@@ -1,5 +1,10 @@
 const arrayEmoji = [
   {
+    title: "Fire",
+    symbol: "🔥",
+    keywords: "fire in the playground fire",
+  },
+  {
     title: "100",
     symbol: "💯",
     keywords:
@@ -84,7 +89,7 @@ const arrayEmoji = [
   },
   {
     title: "Relaxed",
-    symbol: "☺",
+    symbol: "😌",
     keywords: "white smiling face happy smiley",
   },
   {
@@ -95,8 +100,23 @@ const arrayEmoji = [
   },
   {
     title: "Relieved",
-    symbol: "😌",
+    symbol: "😅",
     keywords: "relieved face smiley emotion emotion",
+  },
+  {
+    title: "Passionate",
+    symbol: "😍",
+    keywords: "passionate face love passion",
+  },
+  {
+    title: "Money",
+    symbol: "🤑",
+    keywords: "guy with money in his mouth love money",
+  },
+  {
+    title: "Angel",
+    symbol: "👼",
+    keywords: "baby angel baby",
   },
 ];
 

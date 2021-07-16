@@ -8,7 +8,7 @@ function App() {
   return (
     <div>
       <div className="container-topo">
-        <h1>😸 Emoji Search 😽</h1>
+        <h1>😸 Search for your emoji 😽</h1>
         <input className="input" onChange={(e) => setEmoji(e.target.value)} />
       </div>
 
