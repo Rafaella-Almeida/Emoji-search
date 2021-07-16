@@ -11,11 +11,6 @@ const arrayEmoji = [
       "hundred points symbol symbol wow wow win win perfect perfect parties parties",
   },
   {
-    title: "1234",
-    symbol: "🔢",
-    keywords: "input symbol for numbers symbol",
-  },
-  {
     title: "Grinning",
     symbol: "😀",
     keywords: "grinning face happy smiley emotion emotion",
@@ -62,6 +57,12 @@ const arrayEmoji = [
       "smiling face with open mouth and tightly-closed eyes happy smiley laugh laugh emotion emotion",
   },
   {
+    title: "Laughing",
+    symbol: "😀",
+    keywords:
+      "smiling face with open mouth and tightly-closed eyes happy smiley laugh laugh emotion emotion",
+  },
+  {
     title: "Innocent",
     symbol: "😇",
     keywords: "smiling face with halo smiley emotion emotion",
@@ -70,6 +71,11 @@ const arrayEmoji = [
     title: "Wink",
     symbol: "😉",
     keywords: "winking face silly smiley emotion emotion",
+  },
+  {
+    title: "1234",
+    symbol: "🔢",
+    keywords: "input symbol for numbers symbol",
   },
   {
     title: "Blush",
@@ -117,6 +123,41 @@ const arrayEmoji = [
     title: "Angel",
     symbol: "👼",
     keywords: "baby angel baby",
+  },
+  {
+    title: "Angry",
+    symbol: "😡",
+    keywords: "angry stressed",
+  },
+  {
+    title: "Kiss",
+    symbol: "😘",
+    keywords: "face sending kiss kiss",
+  },
+  {
+    title: "Clown",
+    symbol: "🤡",
+    keywords: "clown face clown clown",
+  },
+  {
+    title: "Arrowed heart",
+    symbol: "💘",
+    keywords: "arrowed heart love heart in love",
+  },
+  {
+    title: "Sleeping face",
+    symbol: "😴",
+    keywords: "sleeping face sleep sleep",
+  },
+  {
+    title: "Tongue out",
+    symbol: "😜",
+    keywords: "Face flashing tongue out",
+  },
+  {
+    title: "Punch",
+    symbol: "👊",
+    keywords: "punch to punch",
   },
 ];
 
